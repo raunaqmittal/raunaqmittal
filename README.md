@@ -60,39 +60,6 @@ Docker • Git • GitHub Actions • Linux
 
 ---
 
-# ⭐ Featured Projects
-
-## 🚦 AI Traffic Violation Detection
-
-Real-time Computer Vision pipeline capable of detecting
-
-- Helmet violation
-- Triple riding
-- Seatbelt violation
-- ANPR
-- Illegal parking
-- Wrong-side driving
-
----
-
-## 🤖 IntelliFlow
-
-Enterprise AI workflow platform using modern LLM orchestration for intelligent task automation.
-
----
-
-## 🔐 Federated Learning IDS
-
-Research project on Byzantine-robust aggregation for Intrusion Detection Systems using Federated Learning.
-
----
-
-## 🌍 Multilingual Code Mixed Text Summarization
-
-Transformer-based abstractive summarization supporting Hinglish and multilingual code-mixed languages.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
