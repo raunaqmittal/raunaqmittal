@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raunaq Mittal</h1>
 
 <h3 align="center">
-AI Engineer • Full Stack Developer • Undergraduate Researcher
+AI/ML Engineer • Data Scientist • Software Developer Engineer • Undergraduate Researcher
 </h3>
 
 <p align="center">
@@ -11,8 +11,8 @@ Building AI applications, Distributed Machine Learning systems and scalable Full
 <p align="center">
 
 <a href="https://portfolio-sage-psi-10.vercel.app/">🌐 Portfolio</a> •
-<a href="mailto:YOUR_EMAIL@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
+<a href="raunaqmittal2004@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/raunaq-mittal-38892a29a">LinkedIn</a>
 
 </p>
 
