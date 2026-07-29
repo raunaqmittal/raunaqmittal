@@ -86,10 +86,10 @@ https://portfolio-sage-psi-10.vercel.app/
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR-LINK
+https://www.linkedin.com/in/raunaq-mittal-38892a29a
 
 📧 Email
 
-YOUR_EMAIL@gmail.com
+raunaqmittal2004@gmail.com
 
 ⭐ If you like my work, consider starring my repositories!
