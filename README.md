@@ -29,7 +29,35 @@ Building AI applications, Distributed Machine Learning systems and scalable Full
 
 ---
 
-# 🛠 Tech Stack ### 💻 Programming Languages ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql) ### 🤖 AI / Machine Learning PyTorch • Scikit-learn • Pandas • NumPy • LLMs • Hugging Face • LangChain • LangGraph • Prompt Engineering ### 🌐 Web Development React.js • Node.js • Express.js • REST APIs • HTML • CSS ### 🗄️ Databases MongoDB • PostgreSQL • MySQL ### 🛠️ Tools & Platforms Git • Docker • Postman • Streamlit • Vercel ### 📚 Core CS Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • SDLC • Agile (Scrum) • Cloud Fundamentals
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+
+### 🤖 AI / Machine Learning
+
+PyTorch • Scikit-learn • Pandas • NumPy • LLMs • Hugging Face • LangChain • LangGraph • Prompt Engineering
+
+### 🌐 Web Development
+
+React.js • Node.js • Express.js • REST APIs • HTML • CSS
+
+### 🗄️ Databases
+
+MongoDB • PostgreSQL • MySQL
+
+### 🛠️ Tools & Platforms
+
+Git • Docker • Postman • Streamlit • Vercel
+
+### 📚 Core CS
+
+Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • SDLC • Agile (Scrum) • Cloud Fundamentals
 
 ---
 
