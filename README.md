@@ -78,18 +78,4 @@ Docker • Git • GitHub Actions • Linux
 
 ---
 
-# 📫 Connect With Me
-
-🌐 Portfolio
-
-https://portfolio-sage-psi-10.vercel.app/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/raunaq-mittal-38892a29a
-
-📧 Email
-
-raunaqmittal2004@gmail.com
-
 ⭐ If you like my work, consider starring my repositories!
