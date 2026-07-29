@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raunaq Mittal</h1>
 
 <h3 align="center">
-AI/ML Engineer • Data Scientist • Software Developer Engineer • Undergraduate Researcher
+AI/ML Engineer • Data Scientist • Software Engineer • Undergraduate Researcher
 </h3>
 
 <p align="center">
