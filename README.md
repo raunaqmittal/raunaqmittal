@@ -31,32 +31,33 @@ Building AI applications, Distributed Machine Learning systems and scalable Full
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
-### AI / ML
+### 🤖 AI / Machine Learning
 
-PyTorch • TensorFlow • Scikit-learn • OpenCV • LangChain • LangGraph
+PyTorch • Scikit-learn • Pandas • NumPy • LLMs • Hugging Face • LangChain • LangGraph • Prompt Engineering
 
-### Backend
+### 🌐 Web Development
 
-Node.js • Express • FastAPI • REST APIs
+React.js • Node.js • Express.js • REST APIs • HTML • CSS
 
-### Frontend
-
-React • Next.js • Tailwind CSS
-
-### Database
+### 🗄️ Databases
 
 MongoDB • PostgreSQL • MySQL
 
-### DevOps
+### 🛠️ Tools & Platforms
 
-Docker • Git • GitHub Actions • Linux
+Git • Docker • Postman • Streamlit • Vercel
+
+### 📚 Core CS
+
+Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • SDLC • Agile (Scrum) • Cloud Fundamentals
 
 ---
 
